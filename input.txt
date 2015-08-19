@@ -1,0 +1,31 @@
+Patrol
+A1
+E
+Battleship
+C4
+S
+Aircraft Carrier
+a10
+s
+Submarine
+J8
+W
+Destroyer
+E2
+S
+Patrol
+C4
+E
+Battleship
+A1
+S
+Aircraft Carrier
+e2
+s
+Submarine
+J8
+W
+Destroyer
+a10
+S
+A4
